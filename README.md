@@ -1,1 +1,1 @@
-# testing
+# How to add projects
